@@ -1,13 +1,9 @@
-project341
-==========
-
-Subsonic Android App
-
+Project 341
 
 Kirk Xenos Smith, Harish Kumar Lall, Javier Ignacio Camino
 Allendesalazar
 
-Project: A mobile app for the Subsonic media server system
+Project:Â A mobile app for the Subsonic media server system
 
 Features:
 
@@ -30,20 +26,20 @@ Existing Subsonic mobile apps:
 
 1.  Video streaming requires the use of Flash on any device, which is no
     longer available from Adobe
-2.  Doesn’t allow media uploading
+2.  Doesnâ€™t allow media uploading
 3.  Not open source
 
 1.  [Best third party iOS app](http://isubapp.com/)
 
 1.  Costs \$4.99.
-2.  Doesn’t allow media uploading
+2.  Doesnâ€™t allow media uploading
 3.  Not open source
 
 Technical information
 
 Subsonic has an [extensive API](http://www.subsonic.org/pages/api.jsp).
 It exposes HTTP live streams that are compatible with iOS (3.0+) and
-Android (3.0 or 4.0 +)^[[1]](#ftnt1)^ ^[[2]](#ftnt2)^ . However, it does
+Android (3.0 or 4.0 +)^[[1]](#ftnt1)^Â ^[[2]](#ftnt2)^Â . However, it does
 not allow file uploading, and we would have to propose this change to
 the community. There is a potential security risk involved with
 uploading files through the API, so they might refuse to accept our
@@ -52,7 +48,7 @@ addition. We could either fork or abandon this feature if this happens.
 We might use a cross platform framework such as
 [PhoneGap](http://phonegap.com/), [Cordova](http://cordova.apache.org/),
 or the [Titanium
-Framework](http://www.appcelerator.com/platform/titanium-platform/) so
+Framework](http://www.appcelerator.com/platform/titanium-platform/)Â so
 that we can easily target multiple platforms. We will use some form of
 version control, probably git, and maybe basecamp to coordinate the
 project. Or perhaps a google doc.
@@ -83,11 +79,11 @@ Future: Integrate with other media servers
 Caster](http://www.orb.com/en/updated-orb-caster/testfeatures.html),
 [Sockso](http://pu-gh.com/), etc...) and other mobile platforms.
 
-Why 341: The speed of sound is 340m/s. Our app is therefore supersonic
+Why 341:Â The speed of sound is 340m/s. Our app is therefore supersonic
 :)
 
 * * * * *
 
-[[1]](#ftnt_ref1) [http://developer.android.com/about/versions/android-3.0-highlights.html](http://developer.android.com/about/versions/android-3.0-highlights.html)
+[[1]](#ftnt_ref1)Â [http://developer.android.com/about/versions/android-3.0-highlights.html](http://developer.android.com/about/versions/android-3.0-highlights.html)
 
-[[2]](#ftnt_ref2) [http://en.wikipedia.org/wiki/HTTP\_Live\_Streaming](http://en.wikipedia.org/wiki/HTTP_Live_Streaming)
+[[2]](#ftnt_ref2)Â [http://en.wikipedia.org/wiki/HTTP\_Live\_Streaming](http://en.wikipedia.org/wiki/HTTP_Live_Streaming)
