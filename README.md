@@ -31,7 +31,7 @@ phone to our computer for archival.
 
 ####2.  [Best third party iOS app](http://isubapp.com/)
 
-1.  Costs \$4.99.
+1.  Costs $4.99.
 2.  Doesn’t allow media uploading
 3.  Not open source
 
@@ -39,7 +39,7 @@ phone to our computer for archival.
 
 Subsonic has an [extensive API](http://www.subsonic.org/pages/api.jsp).
 It exposes HTTP live streams that are compatible with iOS (3.0+) and
-Android (3.0 or 4.0 +)[[1]](#ftnt1)[[2]](#ftnt2). However, it does
+Android (3.0 or 4.0+)[[1]](#ftnt1)[[2]](#ftnt2). However, it does
 not allow file uploading, and we would have to propose this change to
 the community. There is a potential security risk involved with
 uploading files through the API, so they might refuse to accept our
@@ -47,8 +47,7 @@ addition. We could either fork or abandon this feature if this happens.
 
 We might use a cross platform framework such as
 [PhoneGap](http://phonegap.com/), [Cordova](http://cordova.apache.org/),
-or the [Titanium
-Framework](http://www.appcelerator.com/platform/titanium-platform/) so
+or the [Titanium Framework](http://www.appcelerator.com/platform/titanium-platform/) so
 that we can easily target multiple platforms. We will use some form of
 version control, probably git, and maybe basecamp to coordinate the
 project. Or perhaps a google doc.
@@ -89,7 +88,7 @@ Kirk Xenos Smith, Harish Kumar Lall, Javier Ignacio Camino
 Allendesalazar
 
 ###Parent Organization:
-[RCOS](http://rcos.rpi.edu/projects/project-)
+[RCOS](http://rcos.rpi.edu/projects/project-), the Rensselaer Center for Open Source Software.
 
 * * * * *
 
