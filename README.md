@@ -1,12 +1,7 @@
-project341
+project341: Subsonic Android App
 ==========
 
-#Subsonic Android App
-
-Kirk Xenos Smith, Harish Kumar Lall, Javier Ignacio Camino
-Allendesalazar
-
-##Project: 
+##Project description: 
 A mobile app for the Subsonic media server system
 
 ###Features:
@@ -26,8 +21,7 @@ phone to our computer for archival.
 
 ###Existing Subsonic mobile apps:
 
-####1.  [Android
-    app](https://play.google.com/store/apps/details?id=net.sourceforge.subsonic.androidapp&feature=search_result#?t=W251bGwsMSwyLDEsIm5ldC5zb3VyY2Vmb3JnZS5zdWJzb25pYy5hbmRyb2lkYXBwIl0.)
+####1.  [Android app](https://play.google.com/store/apps/details?id=net.sourceforge.subsonic.androidapp&feature=search_result#?t=W251bGwsMSwyLDEsIm5ldC5zb3VyY2Vmb3JnZS5zdWJzb25pYy5hbmRyb2lkYXBwIl0.)
 
 1.  Video streaming requires the use of Flash on any device, which is no
     longer available from Adobe
@@ -35,7 +29,7 @@ phone to our computer for archival.
 3.  Not open source
 
 
-####1.  [Best third party iOS app](http://isubapp.com/)
+####2.  [Best third party iOS app](http://isubapp.com/)
 
 1.  Costs \$4.99.
 2.  Doesn’t allow media uploading
@@ -86,8 +80,16 @@ Integrate with other media servers
 Caster](http://www.orb.com/en/updated-orb-caster/testfeatures.html),
 [Sockso](http://pu-gh.com/), etc...) and other mobile platforms.
 
-Why 341: The speed of sound is 340m/s. Our app is therefore supersonic
+###Why 341: 
+The speed of sound is 340m/s. Our app is therefore supersonic
 :)
+
+###Contributors:
+Kirk Xenos Smith, Harish Kumar Lall, Javier Ignacio Camino
+Allendesalazar
+
+###Parent Organization:
+[RCOS](http://rcos.rpi.edu/projects/project-)
 
 * * * * *
 
